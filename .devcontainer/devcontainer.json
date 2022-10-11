@@ -43,5 +43,6 @@
 	"remoteUser": "vscode",
 	
 	"runArgs": ["--init"],
-	"mounts": [ "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind" ]
+	"mounts": [ "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind" ],
+	"overrideCommand": false
 }
