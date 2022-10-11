@@ -39,3 +39,5 @@ hello Mike WDL Schatz!
 ![helloworld](https://github.com/schatzlab-teaching/wdl101/raw/main/hello.png)
 
 8. If you close the window, navigage to [https://github.com/schatzlab-teaching](https://github.com/schatzlab-teaching) and go to your private repo. From there you can relaunch your code environment. You can also navigate to [https://github.com/codespaces](https://github.com/codespaces) to see your active codespaces.
+
+9. Make sure to review the codespaces documentation, especially how to sync code inside the virtual machine back to the repo: [https://docs.github.com/en/codespaces/getting-started/quickstart](https://docs.github.com/en/codespaces/getting-started/quickstart)
