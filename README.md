@@ -4,6 +4,8 @@
 
 2. After joining, it will create a new github repo. You can then launch the Codespace by clicking on the <> Code button, and then "Create codespace on main". This will boot a free virtual machine for you to use with 2 cores, 4 GB of RAM and 32 GB of local disk running ubuntu linux.
 
+[img src="launch.png"]
+
 3. Once the codespace is launched, go into the terminal and install miniwdl with: 
 ```
 $ conda install -c conda-forge miniwdl
