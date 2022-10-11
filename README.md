@@ -2,7 +2,7 @@
 
 1. Join the wdl101 classroom: [https://classroom.github.com/a/TROwS5WY](https://classroom.github.com/a/TROwS5WY)
 
-2. After joining, it will create a new github repo. You can then launch the Codespace by clicking on the <> Code button, and then "Create codespace on main". This will boot a free virtual machine for you to use with 2 cores, 4 GB of RAM and 32 GB of local disk running ubuntu linux.
+2. After joining, it will create a new github repo as https://github.com/schatzlab-teaching/wdl101-USERNAME. You can then launch the Codespace by clicking on the <> Code button, and then "Create codespace on main". This will boot a free virtual machine for you to use with 2 cores, 4 GB of RAM and 32 GB of local disk running ubuntu linux.
 
 ![launch](https://github.com/schatzlab-teaching/wdl101/raw/main/launch.png)
 
