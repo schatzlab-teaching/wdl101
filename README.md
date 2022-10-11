@@ -4,7 +4,7 @@
 
 2. After joining, it will create a new github repo. You can then launch the Codespace by clicking on the <> Code button, and then "Create codespace on main". This will boot a free virtual machine for you to use with 2 cores, 4 GB of RAM and 32 GB of local disk running ubuntu linux.
 
-[img src="launch.png"]
+![launch](https://github.com/schatzlab-teaching/wdl101/raw/main/launch.png)
 
 3. Once the codespace is launched, go into the terminal and install miniwdl with: 
 ```
@@ -15,6 +15,8 @@ $ conda install -c conda-forge miniwdl
 ```
 $ miniwdl run_self_test
 ```
+
+![selftest](https://github.com/schatzlab-teaching/wdl101/raw/main/selftest.png)
 
 5. Once you confirm miniwdl is running, clone the [learn-wdl repo](https://github.com/openwdl/learn-wdl.git): 
 ```
@@ -32,3 +34,4 @@ $ cat _LAST/out/WriteGreeting.response/stdout.txt
 hello Mike WDL Schatz!
 ```
 
+![helloworld](https://github.com/schatzlab-teaching/wdl101/raw/main/hello.png)
