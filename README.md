@@ -11,6 +11,8 @@
 $ conda install -c conda-forge miniwdl
 ```
 
+![conda](https://github.com/schatzlab-teaching/wdl101/raw/main/conda.png)
+
 4. Once this is installed, verify it is running with 
 ```
 $ miniwdl run_self_test
@@ -35,3 +37,5 @@ hello Mike WDL Schatz!
 ```
 
 ![helloworld](https://github.com/schatzlab-teaching/wdl101/raw/main/hello.png)
+
+8. If you close the window, navigage to [https://github.com/schatzlab-teaching](https://github.com/schatzlab-teaching) and go to your private repo. From there you can relaunch your code environment. You can also navigate to [https://github.com/codespaces](https://github.com/codespaces) to see your active codespaces.
