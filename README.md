@@ -8,10 +8,10 @@
 
 3. Once the codespace is launched, go into the terminal and install miniwdl with: 
 ```
-$ conda install -c conda-forge miniwdl
+$ pip3 install miniwdl
 ```
 
-![conda](https://github.com/schatzlab-teaching/wdl101/raw/main/conda.png)
+![pip3](https://github.com/schatzlab-teaching/wdl101/raw/main/pip3.png)
 
 4. Once this is installed, verify it is running with 
 ```
