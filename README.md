@@ -11,7 +11,7 @@
 $ pip3 install miniwdl
 ```
 
-![pip3](https://github.com/schatzlab-teaching/wdl101/raw/main/pip3.png)
+![pip3](https://github.com/schatzlab-teaching/wdl101/raw/main/pip3.jpg)
 
 4. Once this is installed, verify it is running with 
 ```
